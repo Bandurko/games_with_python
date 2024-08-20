@@ -1,2 +1,2 @@
 # games_with_python
-Invent your oun computer games with python
+Invent your oun computer games with python (book)
