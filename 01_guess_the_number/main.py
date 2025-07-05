@@ -9,7 +9,7 @@ myName = input('Привет! Как вас зовут?\n')
 
 number = random.randint(0, 100)
 
-print(myName + ', угадай число лт 1 до 100 за 6 попыток')
+print(myName + ', угадай число от 1 до 100 за 6 попыток')
 
 for guessesTaken in range(6):
     # print('Попытка №' + (guessesTaken + 1))
